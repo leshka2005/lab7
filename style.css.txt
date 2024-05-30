@@ -1,0 +1,397 @@
+* {
+box-sizing: border-box;
+}
+body {
+font-size: 14px;
+}
+.v1_2 {
+width: 665px;
+height: 765px;
+background: rgba(210,147,154,46);
+opacity: 1;
+position: relative;
+top: 0px;
+left: 0px;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+overflow: hidden;
+}
+.v1_15 {
+width: 290px;
+height: 120px;
+background: rgba(189,100,110,46);
+opacity: 1;
+position: absolute;
+top: 630px;
+left: 350px;
+overflow: hidden;
+}
+.v2_3 {
+width: 287px;
+height: 128px;
+background: rgba(189,100,110,46);
+opacity: 1;
+position: absolute;
+top: 302px;
+left: 350px;
+overflow: hidden;
+}
+.v1_14 {
+width: 287px;
+height: 140px;
+background: rgba(189,100,110,46);
+opacity: 1;
+position: absolute;
+top: 460px;
+left: 350px;
+overflow: hidden;
+}
+.v1_5 {
+width: 287px;
+height: 235px;
+background: rgba(189,100,110,46);
+opacity: 1;
+position: absolute;
+top: 30px;
+left: 350px;
+overflow: hidden;
+}
+.v1_11 {
+width: 290px;
+height: 90px;
+background: rgba(189,100,110,46);
+opacity: 1;
+position: absolute;
+top: 660px;
+left: 20px;
+overflow: hidden;
+}
+.v1_4 {
+width: 250px;
+height: 190px;
+background: url("https://avatars.dzeninfra.ru/get-zen_doc/1594643/pub_5e3e6d88e6e8eb5b95da89cf_5e3e6e19a19f6b22df49c0fc/scale_1200");
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+opacity: 1;
+position: absolute;
+top: 30px;
+left: 64px;
+overflow: hidden;
+}
+.v1_7 {
+width: 289px;
+height: 67px;
+background: rgba(189,100,110,46);
+opacity: 1;
+position: absolute;
+top: 207px;
+left: 21px;
+overflow: hidden;
+}
+.v1_8 {
+width: 288px;
+height: 70px;
+background: rgba(189,100,110,46);
+opacity: 1;
+position: absolute;
+top: 302px;
+left: 21px;
+overflow: hidden;
+}
+.v1_9 {
+width: 288px;
+height: 130px;
+background: rgba(189,100,110,46);
+opacity: 1;
+position: absolute;
+top: 400px;
+left: 21px;
+overflow: hidden;
+}
+.v1_10 {
+width: 290px;
+height: 70px;
+background: rgba(189,100,110,46);
+opacity: 1;
+position: absolute;
+top: 560px;
+left: 20px;
+overflow: hidden;
+}
+.v2_16 {
+width: 73px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 211px;
+left: 28px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 14px;
+opacity: 1;
+text-align: left;
+}
+.v2_17 {
+width: 113px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 233px;
+left: 28px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 11px;
+opacity: 1;
+text-align: left;
+}
+.v2_18 {
+width: 142px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 254px;
+left: 28px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 11px;
+opacity: 1;
+text-align: left;
+}
+.v2_34 {
+width: 78px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 351px;
+left: 28px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 11px;
+opacity: 1;
+text-align: left;
+}
+.v2_31 {
+width: 46px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 306px;
+left: 28px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 14px;
+opacity: 1;
+text-align: left;
+}
+.v2_33 {
+width: 85px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 330px;
+left: 28px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 11px;
+opacity: 1;
+text-align: left;
+}
+.v2_39 {
+width: 224px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 407px;
+left: 28px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 14px;
+opacity: 1;
+text-align: left;
+}
+.v2_44 {
+width: 158px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 437px;
+left: 28px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 11px;
+opacity: 1;
+text-align: left;
+}
+.v2_45 {
+width: 179px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 478px;
+left: 28px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 11px;
+opacity: 1;
+text-align: left;
+}
+.v2_48 {
+width: 251px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 566px;
+left: 28px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 14px;
+opacity: 1;
+text-align: left;
+}
+.v2_54 {
+width: 261px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 590px;
+left: 28px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 11px;
+opacity: 1;
+text-align: left;
+}
+.v2_58 {
+width: 66px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 668px;
+left: 28px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 14px;
+opacity: 1;
+text-align: left;
+}
+.v2_59 {
+width: 232px;
+color:
+rgba(0,0,0,1);
+position: absolute;
+top: 699px;
+left: 28px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 11px;
+opacity: 1;
+text-align: left;
+}
+.v2_62 {
+width: 112px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 310px;
+left: 363px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 14px;
+opacity: 1;
+text-align: left;
+}
+.v2_63 {
+width: 260px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 353px;
+left: 363px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 14px;
+opacity: 1;
+text-align: left;
+}
+.v2_70 {
+width: 229px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 635px;
+left: 363px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 14px;
+opacity: 1;
+text-align: left;
+}
+.v2_71 {
+width: 45px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 668px;
+left: 367px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 12px;
+opacity: 1;
+text-align: left;
+}
+.v2_72 {
+width: 70px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 705px;
+left: 370px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 12px;
+opacity: 1;
+text-align: left;
+}
+.v2_77 {
+width: 67px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 39px;
+left: 367px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 14px;
+opacity: 1;
+text-align: left;
+}
+.v2_78 {
+width: 76px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 468px;
+left: 367px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 14px;
+opacity: 1;
+text-align: left;
+}
+.v2_79 {
+width: 251px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 500px;
+left: 367px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 11px;
+opacity: 1;
+text-align: left;
+}
+.v2_80 {
+width: 216px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 540px;
+left: 367px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 11px;
+opacity: 1;
+text-align: left;
+}
+.v2_81 {
+width: 252px;
+color: rgba(0,0,0,1);
+position: absolute;
+top: 76px;
+left: 367px;
+font-family: IBM Plex Mono;
+font-weight: Regular;
+font-size: 12px;
+opacity: 1;
+text-align: left;
+}

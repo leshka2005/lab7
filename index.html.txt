@@ -1,0 +1,41 @@
+ <!DOCTYPE html> 
+  <html> 
+  <head> 
+  <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono&display=swap" rel="stylesheet" /> 
+  <link rel="stylesheet" href="lib/style.css"> 
+  <link href="./css/main.css" rel="stylesheet"/> 
+  </head> 
+  <body> 
+  <div class="v1_2"><div class="v1_15"></div> 
+  <div class="v2_3"></div> 
+  <div class="v1_14"></div> 
+  <div class="v1_5"></div> 
+  <div class="v1_11"></div> 
+  <div class="v1_4"></div> 
+  <div class="v1_7"></div> 
+  <div class="v1_8"></div> 
+  <div class="v1_9"></div> 
+  <div class="v1_10"></div> 
+  <span class="v2_16">КОНТАКТЫ</span> 
+  <span class="v2_17">+79051506868</span> 
+  <span class="v2_18">alexey15tihonov@gmail.com,Ярославль</span> 
+  <span class="v2_31">ЯЗЫКИ</span> 
+  <span class="v2_33">Английский, русский</span> 
+  <span class="v2_39">Хобби</span> 
+  <span class="v2_44">футбол</span> 
+  <span class="v2_45">баскетбол</span> 
+  <span class="v2_48">Профессия мечты</span> 
+  <span class="v2_54">специалист по информационной безопасности</span> 
+  <span class="v2_58">ХОББИ</span> 
+  <span class="v2_59">компьютерные игры.</span> 
+  <span class="v2_62">ОБРАЗОВАНИЕ</span> 
+  <span class="v2_63">среднее общее образование(МБОУ №34), ЯГТУ(бакалавр) </span> 
+  <span class="v2_70">Языки программирования</span> 
+  <span class="v2_71">SQL,Figma,HTML</span> 
+  <span class="v2_77">О СЕБЕ</span> 
+  <span class="v2_78">Навыки</span> 
+  <span class="v2_80">Навыки: python, communication, pascalABC.NET </span> 
+  <span class="v2_81">Меня зовут Леша, мне 18 лет. Я студент первого курса Ярославского Государственного Технического университета.Я поступил на факультет инф-ых систем и технологий, потому что хочу изучать программирование.</span> 
+  </div> 
+  </body> 
+  </html>
